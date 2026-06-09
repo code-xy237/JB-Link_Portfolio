@@ -33,7 +33,7 @@ export const projects: Project[] = [
     year: 2024,
   },
   {
-    id: 'nids',
+    id: 'Netalyx
     title: 'Système de Détection d\'Intrusion Réseau',
     description: 'Analyseur de paquets avancé avec détection d\'activités suspectes, surveillance en temps réel et alertes de sécurité automatisées.',
     longDescription: 'Un outil de sécurité réseau bas niveau construit en Python qui analyse le trafic réseau en temps réel. Détecte les scans de ports, les paquets anormaux et les schémas d\'intrusion potentiels, déclenchant des alertes configurables.',
@@ -47,7 +47,7 @@ export const projects: Project[] = [
       'Alertes automatisées',
       'Analyse du trafic',
     ],
-    githubUrl: 'https://github.com/boreljunior',
+    githubUrl: 'https://github.com/code-xy237/Netalyx.git',
     category: 'cybersecurity',
     featured: true,
     year: 2024,
@@ -93,7 +93,7 @@ export const projects: Project[] = [
     year: 2023,
   },
   {
-    id: 'file-sharing',
+    id: 'Trame One',
     title: 'Application de Partage de Fichiers en Réseau Local',
     description: 'Outil de transfert de fichiers haute vitesse sur réseau local avec support multi-appareils et configuration minimale.',
     longDescription: 'Un outil de partage de fichiers LAN basé sur Python qui crée un protocole de transfert ad-hoc pour l\'échange pair-à-pair rapide de fichiers au sein des réseaux locaux. Supporte les transferts simultanés et les gros fichiers.',
@@ -107,7 +107,7 @@ export const projects: Project[] = [
       'Suivi de progression',
       'Interface glisser-déposer',
     ],
-    githubUrl: 'https://github.com/boreljunior',
+    githubUrl: 'https://github.com/code-xy237/Trame-One.git',
     category: 'network',
     featured: false,
     year: 2023,
@@ -282,7 +282,7 @@ export const certifications: Certification[] = [
 
 // ─── Social Links ─────────────────────────────────────────────────────────────
 export const socialLinks = {
-  github: 'https://github.com/boreljunior',
+  github: 'https://github.com/code-xy237',
   linkedin: 'https://linkedin.com/in/boreljunior',
-  email: 'boreljunior@email.com',
+  email: 'tientcheujunior9@email.com',
 }
