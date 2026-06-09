@@ -33,7 +33,7 @@ export const projects: Project[] = [
     year: 2024,
   },
   {
-    id: 'Netalyx
+    id: 'Netalyx',
     title: 'Système de Détection d\'Intrusion Réseau',
     description: 'Analyseur de paquets avancé avec détection d\'activités suspectes, surveillance en temps réel et alertes de sécurité automatisées.',
     longDescription: 'Un outil de sécurité réseau bas niveau construit en Python qui analyse le trafic réseau en temps réel. Détecte les scans de ports, les paquets anormaux et les schémas d\'intrusion potentiels, déclenchant des alertes configurables.',
